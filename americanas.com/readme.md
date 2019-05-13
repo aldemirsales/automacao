@@ -9,17 +9,17 @@ Automação do site https://www.americanas.com.br/:
 * Pagamento com cartão de crédito fake;
 
 ######## Passos para execução ########
-1 - Baixar o driver de execução do Mozila Fireox
+* Baixar o driver de execução do Mozila Fireox
 Link: https://github.com/mozilla/geckodriver/releases
 OBS: Baixar a versão de acordo com seu sistema operacional
 
-2 - Descompactar a pasta e pegar apenas o arquivo executável
-3 - Criar as pastas "tools -> selenium" na raíz da unidade "C" e colar o executável copiado
-4 - Ir em -> Painel de Controle\Sistema e Segurança\Sistema -> Configurações avançadas do sistema
-5 - Clicar em "Variáveis de Ambiente"
-6 - Procurar pela variável de ambiente "Path" e clicar em editar
-7 - Clicar em "Novo", adicionar o caminho "C:\tools\selenium" e confirmar a inclusão, clicando em OK (até fechar tudo)
-8 - Abrir a pasta do projeto e executar o CMD nesta pasta
-9 - digitar: cucumber no cmd
+* Descompactar a pasta e pegar apenas o arquivo executável
+* Criar as pastas "tools -> selenium" na raíz da unidade "C" e colar o executável copiado
+* Ir em -> Painel de Controle\Sistema e Segurança\Sistema -> Configurações avançadas do sistema
+* Clicar em "Variáveis de Ambiente"
+* Procurar pela variável de ambiente "Path" e clicar em editar
+* Clicar em "Novo", adicionar o caminho "C:\tools\selenium" e confirmar a inclusão, clicando em OK (até fechar tudo)
+* Abrir a pasta do projeto e executar o CMD nesta pasta
+* digitar: cucumber no cmd
 
 Pronto, a execução irá iniciar!! :-)
