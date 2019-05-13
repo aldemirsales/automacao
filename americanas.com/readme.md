@@ -20,6 +20,7 @@ OBS: Baixar a versão de acordo com seu sistema operacional
 * Procurar pela variável de ambiente "Path" e clicar em editar
 * Clicar em "Novo", adicionar o caminho "C:\tools\selenium" e confirmar a inclusão, clicando em OK (até fechar tudo)
 * Abrir a pasta do projeto e executar o CMD nesta pasta
-* digitar: cucumber no cmd
+* digitar: "bundle install" no cmd
+* digitar: "cucumber" no cmd
 
 Pronto, a execução irá iniciar!! :-)
