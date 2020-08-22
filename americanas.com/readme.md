@@ -1,4 +1,4 @@
-Projeto de automação de testes para avaliação da Avanade
+Projeto de automação de testes em ruby para brincar um pouco
 
 Automação do site https://www.americanas.com.br/:
 
